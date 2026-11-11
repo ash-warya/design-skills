@@ -40,9 +40,37 @@ Repeat for retained themes, or use a separate register if many themes exist.
 - Success signal; known baseline; proposed or agreed target:
 - Work needed and next learning/action:
 - Owner/contributors (confirmed or proposed):
-- Effort/capacity assumptions and dependencies:
+- Required roles/skills and proposed or confirmed lead:
+- Effort range by role in person-days; estimate basis and confidence:
+- Allocation and net capacity by period:
+- Elapsed duration range, dependencies, external waits and excluded scope:
 - Why this horizon; what would move it:
 - Commitment status and relevant fixed dates, if actually agreed:
+
+## Resource plan
+
+Label estimates, proposed assignments and assumptions. Display a short staffing/effort line on each theme in the visual.
+
+| Theme / phase | Lead or proposed role | Required skills | Effort range (person-days by role) | Allocation | Elapsed duration range | Dependencies / estimate basis |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+
+## Capacity by period
+
+Working-day convention and net-allocation definition: [State assumptions; avoid subtracting commitments twice]
+
+| Person or role | Period | Net available days | Assigned demand range | Gap / risk | Other commitments / unknowns |
+|---|---|---|---|---|---|
+| | | | | | |
+
+## Staffing tradeoffs
+
+| Scenario | Roles and allocation | Scope / sequence | Estimated duration and confidence | Constraint or displaced work |
+|---|---|---|---|---|
+| Current capacity | | | | |
+| Alternative if useful | | | | |
+
+Do not infer that additional people compress dependencies proportionally. Identify the resource decision needed.
 
 ## Priority decisions
 
