@@ -1,0 +1,4 @@
+interface:
+  display_name: "UX Roadmapping"
+  short_description: "Build evidence-informed team UX roadmaps"
+  default_prompt: "Use $ux-roadmapping to turn my team’s goals, research and requests into an evidence-informed Now/Next/Future roadmap."
