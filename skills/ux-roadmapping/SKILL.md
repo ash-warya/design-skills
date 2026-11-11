@@ -38,12 +38,19 @@ Scale to the user's request. An ordinary team-roadmap draft should include:
 - A short strategic frame and explicit horizon definitions.
 - A visual Now/Next/Future chart with outcome themes, plus an accessible text equivalent and supporting register.
 - A theme register connecting each theme to beneficiary, need, business objective, evidence, confidence, success signal, proposed/confirmed owner, dependencies and next learning/action step.
+- A resource plan with role-specific effort ranges, allocations, elapsed duration and capacity gaps.
 - A priority rationale, displaced/deferred work and significant assumptions or gaps.
 - The next decision needed, review date/cadence proposal and source links.
 
 Do not force every field into one unreadably wide table. Keep the board compact and put detail in theme cards or a supporting register. Show metric baseline and target only when provided or clearly marked as proposals. Without capacity, provide provisional sequencing rather than a promise that everything fits.
 
 For a stakeholder's prescribed solution, use the Confidence Reframe: listen to the request, translate it to a user outcome, check evidence for the need and solution, and present the tradeoff. Do not manufacture displaced work or claim authority to accept the change.
+
+## Resourcing and effort
+
+Read [resourcing and effort planning](references/resourcing.md) when creating or revising a roadmap. Include a resource plan by default: proposed/confirmed lead and needed roles, effort range by role in person-days, available allocation, estimated elapsed duration, dependencies and confidence. Show a short staffing/effort line on each visual theme and a supporting capacity view. If inputs are missing, give clearly labeled assumptions/scenarios and identify what needs confirmation.
+
+Keep effort, elapsed time, headcount and FTE distinct. Account for existing work, leave, BAU, skill constraints, shared specialists and overlapping assignments. Do not assume adding designers reduces time proportionally. Show overloaded periods or uncertain capacity and give explicit scope, sequence, date or staffing tradeoffs. Discovery, validation and delivery support need resources too; a design estimate does not establish engineering delivery time.
 
 ## Visual roadmap output
 
@@ -53,7 +60,7 @@ Use an inline visual when the environment supports one; otherwise provide a Merm
 
 ## Review before delivery
 
-Check that each theme changes something for a beneficiary and connects to a business goal; evidence IDs resolve; direct quotes exactly match the source; uncertainties remain visible; priorities explain real tradeoffs; Now fits known capacity or is marked provisional; and the roadmap has an owner and a way to change. Do not label a draft committed or imply the team approved it.
+Check that each theme changes something for a beneficiary and connects to a business goal; evidence IDs resolve; direct quotes exactly match the source; uncertainties remain visible; priorities explain real tradeoffs; Now fits known capacity or is marked provisional; named-person overlaps and role-specific capacity are checked; and the roadmap has an owner and a way to change. Do not label a draft committed or imply the team approved it.
 
 ## Source use and privacy
 
