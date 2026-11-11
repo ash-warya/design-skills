@@ -14,7 +14,11 @@ Now: [Team-defined meaning/window]
 Next: [Team-defined meaning/window]
 Future: [Team-defined meaning/window; more uncertain]
 
-## Roadmap
+## Visual roadmap
+
+Render an outcome-theme chart in Now / Next / Future columns, with relevant research, design and validation work beneath each theme. Show known dependencies and commitment status. Use a dated timeline only when dates are supplied or explicitly proposed. Keep the following table as a supporting text equivalent, not the sole visual.
+
+## Roadmap register
 
 | Horizon | Theme ID and outcome | Beneficiary and need | Business objective | Next step |
 |---|---|---|---|---|
