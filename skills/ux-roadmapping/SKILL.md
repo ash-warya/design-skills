@@ -36,7 +36,7 @@ For a refresh, explain changes from the previous version and retain a decision t
 
 Scale to the user's request. An ordinary team-roadmap draft should include:
 - A short strategic frame and explicit horizon definitions.
-- A readable Now/Next/Future board or table with outcome themes.
+- A visual Now/Next/Future chart with outcome themes, plus an accessible text equivalent and supporting register.
 - A theme register connecting each theme to beneficiary, need, business objective, evidence, confidence, success signal, proposed/confirmed owner, dependencies and next learning/action step.
 - A priority rationale, displaced/deferred work and significant assumptions or gaps.
 - The next decision needed, review date/cadence proposal and source links.
@@ -44,6 +44,12 @@ Scale to the user's request. An ordinary team-roadmap draft should include:
 Do not force every field into one unreadably wide table. Keep the board compact and put detail in theme cards or a supporting register. Show metric baseline and target only when provided or clearly marked as proposals. Without capacity, provide provisional sequencing rather than a promise that everything fits.
 
 For a stakeholder's prescribed solution, use the Confidence Reframe: listen to the request, translate it to a user outcome, check evidence for the need and solution, and present the tradeoff. Do not manufacture displaced work or claim authority to accept the change.
+
+## Visual roadmap output
+
+Include a visual chart with the supporting detail unless the user requests text only. Default to outcome themes arranged in Now / Next / Future columns. Show research, design and validation work under each theme where relevant, using consistent labels and a small legend. Keep the chart readable at presentation size; place evidence and ownership detail in a companion register or expandable details.
+
+Use an inline visual when the environment supports one; otherwise provide a Mermaid flowchart or a standalone HTML/SVG chart the user can view. Do not require a proprietary design tool or a specific visualization skill. Preserve a text equivalent for accessibility. Use a dated timeline or swimlanes only when real dates, dependencies and workstreams are known. Distinguish targets, assumptions and commitments, and do not imply duration or parallel capacity through invented bar lengths. Label fictional examples prominently. Honor a user-requested output format.
 
 ## Review before delivery
 
