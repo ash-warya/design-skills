@@ -35,6 +35,7 @@ For repository-scoped use, copy the whole skill folder into `.agents/skills/ux-r
 - A practical roadmapping method
 - One-workshop and two-workshop agendas
 - A visual Now/Next/Future chart by default, with an accessible text equivalent
+- Role-specific staffing, effort ranges, elapsed-time estimates and capacity tradeoffs
 - A reusable roadmap, evidence and decision-log template
 
 No personal vault, account connection or original course files are needed. Bring your own team context; keep confidential research and actual team roadmaps in your approved work environment.
